@@ -1,4 +1,9 @@
 *Kesan Pesan Ikut Pelatihan GIT*
+
+Nama	: MOHAMMAD ARDHI EFENDI
+NIM	: 222410102063
+Prodi	: TEKNOLOGI INFORMASI
+
 Kesan : Awalnya sebelum ikut pelatihan sempat mikir belajar GIT buat apa,
 	tapi waktu ikut pelatihan belajar GIT cukup menarik meskipun bingungin
 	pas awal-awalnya.
