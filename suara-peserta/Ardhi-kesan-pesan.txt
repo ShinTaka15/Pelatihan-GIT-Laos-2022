@@ -1,0 +1,7 @@
+*Kesan Pesan Ikut Pelatihan GIT*
+Kesan : Awalnya sebelum ikut pelatihan sempat mikir belajar GIT buat apa,
+	tapi waktu ikut pelatihan belajar GIT cukup menarik meskipun bingungin
+	pas awal-awalnya.
+Pesan : Terima kasih buat UKM Laos telah mengadakan acara ini 
+	dan juga buat Mas Stanislaus telah menjadi pemateri 
+	cukup asik, kedepannya semoga bisa menjadi lebih baik.
